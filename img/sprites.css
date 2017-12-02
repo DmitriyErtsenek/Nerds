@@ -1,0 +1,58 @@
+.cart-icon, .checkbox-off, .checkbox-on, .close-cross, .fb-icon, .icon-down-dir-копия 2, .icon-up-dir-копия, .insta-icon, .vk-icon{
+	background: url(sprites.png) no-repeat;
+}
+
+.cart-icon{
+	background-position: -18px -21px ;
+	width: 15px;
+	height: 15px;
+}
+
+.checkbox-off{
+	background-position: -64px -16px ;
+	width: 23px;
+	height: 23px;
+}
+
+.checkbox-on{
+	background-position: -112px -17px ;
+	width: 27px;
+	height: 23px;
+}
+
+.close-cross{
+	background-position: -165px -18px ;
+	width: 21px;
+	height: 21px;
+}
+
+.fb-icon{
+	background-position: -218px -17px ;
+	width: 12px;
+	height: 22px;
+}
+
+.icon-down-dir-копия 2{
+	background-position: -370px -23px ;
+	width: 11px;
+	height: 10px;
+}
+
+.icon-up-dir-копия{
+	background-position: -421px -19px ;
+	width: 11px;
+	height: 10px;
+}
+
+.insta-icon{
+	background-position: -264px -19px ;
+	width: 21px;
+	height: 21px;
+}
+
+.vk-icon{
+	background-position: -313px -19px ;
+	width: 26px;
+	height: 15px;
+}
+
